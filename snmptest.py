@@ -1,5 +1,4 @@
 #!/usr/bin/python
-#This is a first commit 2015-08-28
 
 import netsnmp
 import sys
